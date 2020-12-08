@@ -1,3 +1,5 @@
 env/
 .ipynb_checkpoints/
 .vector_cache/
+
+imdb_reviews.csv
